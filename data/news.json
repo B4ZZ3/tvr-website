@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "department": "Jugendausschuss",
+            "headline": "Karneval 2023 mit dem TVR",
+            "imglink": "https://www.tv-rheindahlen.de/cms/images/stories/abteilungen/jugend/Karneval_2023.jpg",
+            "articletext": "Die Anmeldung zum Karnevalszug 2023 kann <a href='/cms/images/stories/abteilungen/jugend/Karneval_Anmeldung_1_2023.pdf' target='_blank' rel='noopener noreferrer'>hier</a> runtergeladen werden."
+        },
+        {
+            "department": "Kinderturnen",
+            "headline": "Neu: Kunstturnen für Mädchen",
+            "imglink": "https://www.tv-rheindahlen.de/cms/images/stories/abteilungen/kinder/Bildschirmfoto_2023-01-22_um_155635.png",
+            "articletext": ""
+        },
+        {
+            "department": "Schwimmen",
+            "headline": "2. Sparda-Bank X-Mas Cup 2022",
+            "imglink": "https://www.tv-rheindahlen.de/cms/images/stories/abteilungen/schwimmen/20221211_112926.png",
+            "articletext": "Am 11.12.2022 ist der Nachwuchs der Schwimmabteilung des TV Rheindahlen beim 2. Sparda-Bank X-Mas Cup (Ausrichter SG Mönchengladbach) in Rheindahlen angetreten. Alle Schwimmerinnen 2009-2014 sind neue persönliche Bestzeiten geschwommen, bei den kindgerechten Wettkämpfen Jg 2015/2016 trat Greta Dehling (2015) in ihrem ersten Wettkampf an."
+        }
+    ]
+}
